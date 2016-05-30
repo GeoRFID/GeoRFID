@@ -1,0 +1,562 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "planta",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "0",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00796380870618,
+							43.2976750696729
+                        ],
+                        [
+                            -2.00772490884396,
+							43.2978248572834
+                        ],
+                        [
+                            -2.00780010469865,
+							43.29788879973
+                        ],
+                        [
+                            -2.0080450839171,
+							43.297739612347
+                        ],
+                        [
+                            -2.00796380870618,
+							43.2976750696729
+                        ]
+                    ]
+                ]
+            }
+        },
+		       {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "planta",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "1",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00796380870618,
+							43.2976750696729
+                        ],
+                        [
+                            -2.00772490884396,
+							43.2978248572834
+                        ],
+                        [
+                            -2.00780010469865,
+							43.29788879973
+                        ],
+                        [
+                            -2.0080450839171,
+							43.297739612347
+                        ],
+                        [
+                            -2.00796380870618,
+							43.2976750696729
+                        ]
+                    ]
+                ]
+            }
+        },
+		       {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "planta",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "2",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00796380870618,
+							43.2976750696729
+                        ],
+                        [
+                            -2.00772490884396,
+							43.2978248572834
+                        ],
+                        [
+                            -2.00780010469865,
+							43.29788879973
+                        ],
+                        [
+                            -2.0080450839171,
+							43.297739612347
+                        ],
+                        [
+                            -2.00796380870618,
+							43.2976750696729
+                        ]
+                    ]
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "planta",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "1",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00787924586932,43.2977840992438
+                        ],
+                        [
+                            -2.0077990134728,43.2978326383107
+                        ],
+                        [
+                            -2.00783937589975,43.297864261592
+                        ],
+                        [
+                            -2.00791637499189,43.2978154713801
+                        ],
+                        [
+                            -2.00787924586932,43.2977840992438
+                        ]
+                    ]
+                ]
+            }
+        }
+         ,
+		 {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "habitaculo",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "1",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00801355937069,43.297715064845
+                        ],
+                        [
+                            -2.00791386167117,43.297774409372
+                        ],
+                        [
+                            -2.00786496686686,43.297736755103
+                        ],
+                        [
+                            -2.00796347201033,43.2976751547501
+                        ],
+                        [
+                            -2.00801355937069,43.297715064845
+                        ]
+                    ]
+                ]
+            }
+        }
+         ,
+		 {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "habitaculo",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "1",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.0080425181512,43.2977375748093
+                        ],
+                        [
+                            -2.00801400650346,43.297714933005
+                        ],
+                        [
+                            -2.00791376815398,43.2977747761791
+                        ],
+                        [
+                            -2.0079044092513,43.2977677055041
+                        ],
+                        [
+                            -2.00787921220657,43.2977839418676
+                        ],
+						[
+                            -2.00791709814055,43.297815878776
+                        ],
+						
+						[
+							-2.0080425181512,43.2977375748093
+                        ]						
+                    ]
+                ]
+            }
+        }		
+         ,
+		 {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "habitaculo",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "2",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00783939820747,43.2978644081889
+                        ],
+                        [
+                            -2.00778341947772,43.2978204311723
+                        ],
+                        [
+                            -2.00774765439757,43.2978434864825
+                        ],
+                        [
+                            -2.00780180209704,43.2978877966916
+                        ],
+                        [
+                            -2.00783939820747,43.2978644081889
+                        ]
+                    ]
+                ]
+            }
+        }
+         ,
+		 {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "habitaculo",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "2",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00779398728585,43.2978136122864
+                        ],
+                        [
+                            -2.00777088716717,43.2977960294011
+                        ],
+                        [
+                            -2.00772491145167,43.2978248578854
+                        ],
+                        [
+                            -2.00774765450096,43.2978434864071
+                        ],
+                        [
+                            -2.00779398728585,43.2978136122864
+                        ]
+                    ]
+                ]
+            }
+        }
+         ,
+		 {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "habitaculo",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "2",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00784070373532,43.2977840074552
+                        ],
+                        [
+                            -2.00781802674425,43.2977664534128
+                        ],
+                        [
+                            -2.00777088716717,43.2977960294011
+                        ],
+                        [
+                            -2.00779398728678,43.2978136122863
+                        ],
+                        [
+                            -2.00784070373532,43.2977840074552
+                        ]						
+                    ]
+                ]
+            }
+        }
+         ,
+		 {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "habitaculo",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "2",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+							-2.00788749681547,43.2977543761515
+                        ],
+                        [
+                            -2.00786517974018,43.2977369090046
+                        ],
+                        [
+                            -2.00781802665316,43.2977664594175
+                        ],
+                        [
+                            -2.00784069224273,43.2977840144038
+                        ],
+                        [
+                            -2.00788749681547,43.2977543761515
+                        ]						
+                    ]
+                ]
+            }
+        }
+         ,
+		 {
+            "type": "Feature",
+            "id": "way/94551277",
+            "properties": {
+                "type": "way",
+                "id": "94551277",
+                "tags": {
+                    "buildingpart": "habitaculo",
+                    "height": "3.9",
+                    "name": "012"
+                },
+                "relations": [
+                    {
+                        "role": "buildingpart",
+                        "rel": "1370728",
+                        "reltags": {
+                            "height": "4",
+                            "level": "2",
+                            "name": "Erdgeschoss",
+                            "type": "level"
+                        }
+                    }
+                ],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.00790453487095,43.297767581067
+                        ],
+                        [
+                            -2.00788749681547,43.2977543761515
+                        ],
+                        [
+                            -2.00778341947772,43.2978204220382
+                        ],
+                        [
+                            -2.0077990134728,43.2978326383107
+                        ],
+                        [
+                            -2.00790453487095,43.297767581067
+                        ]						
+                    ]
+                ]
+            }
+        }		
+    ]
+}

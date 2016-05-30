@@ -1,0 +1,75 @@
+<resources>
+    <string name="google_app_id" translatable="false">970206805684</string>
+
+    <string name="app_name">GeoRFID</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_read_element">ReadElement</string>
+    <string name="title_activity_new_element">NewElement</string>
+    <string name="title_activity_read_rfid">ReadRfid</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_new_element_data">NewElementData</string>
+    <string name="title_activity_map">Map</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="remember_password">remember password</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="ok">Ok</string>
+    <string name="new_element">New element</string>
+    <string name="type">Type</string>
+    <string name="read_rfid_nfc">Read RFID/NFC tag</string>
+    <string name="take_image">Take image</string>
+    <string name="getting_geolocation">Getting geolocation...</string>
+    <string name="set_location">Set position</string>
+    <string name="element_data">Element data</string>
+    <string name="delete_element">Delete</string>
+    <string name="read_rfid_nfc_instructions">Bring the terminal to the RFID / NFC tag and wait to be recognized</string>
+    <string name="select_option">Select option</string>
+    <string name="query_element">Query Element</string>
+    <string name="session_started">Session started\n</string>
+    <string name="user_no_valid">The user is not valid</string>
+    <string name="element_saved_with_id">Element saved with id "</string>
+    <string name="error_saving_element">An error ocurred saving the element</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="no_data_tag">No data found associated to this tag</string>
+    <string name="error_deleting_element">An error ocurred deleting the element</string>
+    <string name="element_deleted">Element deleted</string>
+    <string name="server_description">Database server to use</string>
+    <string name="server">Server</string>
+    <string name="user_description">Database user to use</string>
+    <string name="password_description">Database password to use</string>
+    <string name="login_user_description">Login user</string>
+    <string name="login_password_description">User password</string>
+    <string name="settings_login_section">Login</string>
+    <string name="settings_server_section">Database</string>
+    <string name="create_task">Create Incident</string>
+    <string name="title_activity_create_task">Create incident</string>
+    <string name="title_activity_read_task">ReadTask</string>
+    <string name="state">State</string>
+    <string name="savingelement">Saving element...</string>
+    <string name="savingincident">Saving incident...</string>
+    <string name="tasksaved">Incident saved with id "</string>
+    <string name="errorsavingtask">Error saving incident</string>
+    <string name="readingelementdata">Reading element data...</string>
+    <string name="confirm">Confirm</string>
+    <string name="areyousuredeleteelement">Are you sure you wanto to delete this element?</string>
+    <string name="incidentdescription">Description</string>
+    <string name="incidenttype">Type</string>
+    <string name="viewincident">View incident</string>
+</resources>

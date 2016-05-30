@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">GeoRFID</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_read_element">ReadElement</string>
+    <string name="title_activity_new_element">NewElement</string>
+    <string name="title_activity_read_rfid">ReadRfid</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_email">La dirección de email no es válida</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">El campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_new_element_data">NewElementData</string>
+    <string name="title_activity_map">Mapa</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="remember_password">recordar contraseña</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Híbrido</string>
+    <string name="satellite">Satélite</string>
+    <string name="ok">Aceptar</string>
+    <string name="new_element">Nuevo elemento</string>
+    <string name="type">Tipo</string>
+    <string name="read_rfid_nfc">Leer etiqueta RFID/NFC</string>
+    <string name="take_image">Capturar imagen</string>
+    <string name="getting_geolocation">Obteniendo geolocalización...</string>
+    <string name="set_location">Establecer posición</string>
+    <string name="element_data">Datos del elemento</string>
+    <string name="delete_element">Eliminar</string>
+    <string name="read_rfid_nfc_instructions">Acerque el terminal a la etiqueta RFID/NFC y espere a que sea reconocida</string>
+    <string name="select_option">Seleccione opción</string>
+    <string name="query_element">Consulta Elemento</string>
+    <string name="session_started">Sesión iniciada\n</string>
+    <string name="user_no_valid">El usuario no es válido</string>
+    <string name="element_saved_with_id">Elemento guardado correctamente con id "</string>
+    <string name="error_saving_element">Se produjo un error guardando el elemento</string>
+    <string name="no">no</string>
+    <string name="yes">si</string>
+    <string name="no_data_tag">No se han encontrado datos asociados a esta etiqueta</string>
+    <string name="error_deleting_element">Se produjo un error eliminado el elemento</string>
+    <string name="element_deleted">Elemento eliminado</string>
+    <string name="login_password_description">Contraseña de usuario</string>
+    <string name="login_user_description">Usuario para iniciar sesión</string>
+    <string name="password_description">Contraseña de base de datos a utilizar</string>
+    <string name="server">Servidor</string>
+    <string name="server_description">Servidor de base de datos a utilizar</string>
+    <string name="settings_login_section">Inicio de sesión</string>
+    <string name="settings_server_section">Base de datos</string>
+    <string name="user_description">Usuario de base de datos a utilizar</string>
+    <string name="create_task">Crear incidencia</string>
+    <string name="state">Estado</string>
+    <string name="title_activity_create_task">Crear incidencia</string>
+    <string name="areyousuredeleteelement">¿Está seguro que quiere eliminar este elemento?</string>
+    <string name="confirm">Confirmar</string>
+    <string name="errorsavingtask">Error guardando incidencia</string>
+    <string name="readingelementdata">Leyendo datos del elemento...</string>
+    <string name="savingelement">Guardando elemento...</string>
+    <string name="savingincident">Guardando incidencia...</string>
+    <string name="tasksaved">Incidencia guardada con id "</string>
+    <string name="title_activity_read_task">ReadTask</string>
+    <string name="incidentdescription">Descripción</string>
+    <string name="incidenttype">Tipo</string>
+    <string name="viewincident">Ver incidencia</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/settings_server_section">
+        <EditTextPreference
+            android:key="dbserver"
+            android:summary="@string/server_description"
+            android:title="@string/server" />
+        <EditTextPreference
+            android:key="dbuser"
+            android:summary="@string/user_description"
+            android:title="@string/user" />
+        <EditTextPreference
+            android:key="dbpassword"
+            android:password="true"
+            android:summary="@string/password_description"
+            android:title="@string/password" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_login_section">
+        <EditTextPreference
+            android:key="loginuser"
+            android:summary="@string/login_user_description"
+            android:title="@string/user" />
+        <EditTextPreference
+            android:key="loginpassword"
+            android:password="true"
+            android:summary="@string/login_password_description"
+            android:title="@string/password"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>

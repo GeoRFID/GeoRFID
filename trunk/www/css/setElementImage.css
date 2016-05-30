@@ -1,0 +1,140 @@
+*
+{
+	font-family:Verdana; 
+	font-size:11px;	
+}
+body
+{
+	margin:0;
+	overflow:hidden;
+}
+.button
+{
+	font-size:10px;
+}
+.panelHeader
+{
+	font-weight: bold;
+	font-size:12px;
+}
+.fullWidth
+{
+	width:100%;
+}
+.fullHeight
+{
+	height:100%;
+}
+.halfWidth
+{
+	width:40%;	
+}
+.centerDiv
+{
+	position: absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	margin:auto;
+}
+.left
+{
+	text-align:left;
+}
+.right
+{
+	text-align:right;
+}
+.center 
+{
+	text-align: center;
+}
+.logout
+{
+	position:absolute;
+	top:10px;
+	right:10px
+}
+.tooltipBackground .leaflet-popup-tip,
+.tooltipBackground .leaflet-popup-content-wrapper {
+    background: #E0E0E0;
+    color: #ffffff;
+}
+.leaflet-popup-content-wrapper,.leaflet-popup-content
+ {
+   -webkit-border-radius: 0 !important;
+   -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+ }
+.tooltipTable
+{
+	background-color: #E0E0E0;
+	border:0;
+	font-size:8px;
+	width:200px;
+}
+.panelHeader
+{
+	font-weight: bold;
+	font-size:12px;
+}
+.rowAlternate
+{
+	/*background-color: #c9c9c9;*/
+}
+.tag 
+{
+	font-size:9px;
+}
+.tools
+{
+	position: absolute;
+	z-index:99999;
+	top:58px;
+	left:45px;
+}
+.filtro
+{
+	border-style:solid;
+	border-width:1px;
+	background-color:#E0E0E0;
+	padding:15px;
+	position: absolute;
+	z-index:99999;
+	top:100px;
+	left:45px;
+}
+.listado
+{
+	border-style:solid;
+	border-width:1px;
+	background-color:#E0E0E0;
+	padding:15px;
+	position: absolute;
+	z-index:99999;
+	top:100px;
+	left:45px;
+	max-height:50%;
+	overflow: auto;
+}
+.tablaListado
+{
+	border-style:solid;
+	border-width:1px;
+}
+.nuevoElemento
+{
+	height:150px;
+	width:250px;	
+}
+.subirImagen
+{
+	height:350px;
+	width:450px;	
+}
+.hidden
+{
+	display:none;
+	visibility: hidden;	
+}

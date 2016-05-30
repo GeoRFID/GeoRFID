@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970206805684",
+    "project_id": "georfid-d1b2f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970206805684:android:ede9a133a38a116f",
+        "android_client_info": {
+          "package_name": "com.opencartis.georfid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970206805684-7ck2m4g5v69aso8n5dgmurjjk77kovjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opencartis.georfid",
+            "certificate_hash": "E57F5ED83AA8C97C9FB5FE0265F5B5E07463A6F6"
+          }
+        },
+        {
+          "client_id": "970206805684-svttlub9alq2uruvi15141gr9pb6qka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdd2nPZMxoItzHV4BYJW5CWACAKDMqVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

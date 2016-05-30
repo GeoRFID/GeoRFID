@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=E5:7F:5E:D8:3A:A8:C9:7C:9F:B5:FE:02:65:F5:B5:E0:74:63:A6:F6%3Bcom.opencartis.georfid
+
+    You can also add your credentials to an existing key, using this line:
+    E5:7F:5E:D8:3A:A8:C9:7C:9F:B5:FE:02:65:F5:B5:E0:74:63:A6:F6;com.opencartis.georfid
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDBymFRfiLm4mhdwH2LlLNIu0UUbSRJ4Kw
+    </string>
+</resources>

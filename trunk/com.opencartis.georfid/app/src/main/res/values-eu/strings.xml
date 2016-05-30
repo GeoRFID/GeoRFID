@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">GeoRFID</string>
+    <string name="action_settings">Ezarpenak</string>
+    <string name="title_activity_read_element">ReadElement</string>
+    <string name="title_activity_new_element">NewElement</string>
+    <string name="title_activity_read_rfid">ReadRfid</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Pasahitza</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Saioa hasi</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_new_element_data">NewElementData</string>
+    <string name="title_activity_map">Mapa</string>
+    <string name="delete_element">Ezabatu</string>
+    <string name="element_data">Elementu datuak</string>
+    <string name="element_deleted">Elementua ezabatutako</string>
+    <string name="element_saved_with_id">Elementu bezala gorde, id "</string>
+    <string name="error_deleting_element">Errorea gertatu elementua kentzean</string>
+    <string name="error_saving_element">Errorea gertatu elementu gordetzerakoan</string>
+    <string name="getting_geolocation">Kokapena lortzen...</string>
+    <string name="hybrid">Hibrido</string>
+    <string name="login">Saioa hasi</string>
+    <string name="login_password_description">Erabiltzaile pasahitza</string>
+    <string name="login_user_description">Erabiltzaile saioa hasteko</string>
+    <string name="new_element">Elementu berria</string>
+    <string name="no">ez</string>
+    <string name="no_data_tag">Ez da daturik aurkitu etiketa honekin lotutako</string>
+    <string name="normal">Normal</string>
+    <string name="ok">Onartu</string>
+    <string name="password">Pasahitza</string>
+    <string name="password_description">Datu-basea pasahitza</string>
+    <string name="query_element">Elementua kontsultatu</string>
+    <string name="read_rfid_nfc">Irakurri RFID/NFC etiketa</string>
+    <string name="read_rfid_nfc_instructions">Urbildu terminala eta RFID/NFC etiketa eta itxaron</string>
+    <string name="remember_password">pasahitza gogoratzen</string>
+    <string name="satellite">Satelite</string>
+    <string name="select_option">Aukera bat hautatu</string>
+    <string name="server">Zerbitzari</string>
+    <string name="server_description">Datu-basea zerbitzari</string>
+    <string name="session_started">Hasitako saioa\n</string>
+    <string name="set_location">Posizioa ezartzeko</string>
+    <string name="settings_login_section">Saioa</string>
+    <string name="settings_server_section">Datu-basea</string>
+    <string name="take_image">Hartu irudia</string>
+    <string name="type">Mota</string>
+    <string name="user">Erabiltzailea</string>
+    <string name="user_description">Datu-basea erabiltzailea</string>
+    <string name="user_no_valid">Erabiltzaile ez da baliozkoa</string>
+    <string name="yes">bai</string>
+    <string name="create_task">Intzidentzia sortu</string>
+    <string name="state">Egoera</string>
+    <string name="title_activity_create_task">Intzidentzia sortu</string>
+    <string name="confirm">Berretsi</string>
+    <string name="areyousuredeleteelement">Elementu ezabatu?</string>
+    <string name="errorsavingtask">Errorea intzidentzia gorderzerakoan</string>
+    <string name="readingelementdata">Elementu datuak irakurtzen...</string>
+    <string name="savingelement">Elementua gordetzen...</string>
+    <string name="savingincident">Intzidenzia gordetzen...</string>
+    <string name="tasksaved">Intzidenzia bezala gorde, id "</string>
+    <string name="title_activity_read_task">ReadTask</string>
+    <string name="incidentdescription">Deskribapen</string>
+    <string name="incidenttype">Mota</string>
+    <string name="viewincident">Intzidentzia ikusi</string>
+</resources>
