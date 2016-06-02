@@ -1,0 +1,323 @@
+*
+{
+	font-family:Verdana; 
+	font-size:11px;	
+}
+body
+{
+	margin:0;
+	overflow:hidden;
+}
+td
+{
+	padding:2px;	
+}
+.button
+{
+	font-size:10px;
+}
+.header
+{
+	font-size:18px; 
+	background-color:dodgerblue; 
+	color:white;    
+    border-bottom: 2px solid #000000;
+    padding: 10px;
+	height:50px;
+}
+.headerLogo
+{
+	height:30px;
+}
+.fullWidth
+{
+	width:100%;
+}
+.fullHeight
+{
+	height:100%;
+}
+.halfWidth
+{
+	width:40%;	
+}
+.centerDiv
+{
+	position: absolute;
+	text-align:center;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	margin:auto;
+}
+.left
+{
+	text-align:left;
+}
+.right
+{
+	text-align:right;
+}
+.center 
+{
+	text-align: center;
+}
+.logout
+{
+	position:absolute;
+	top:10px;
+	right:10px
+}
+.tooltipBackground .leaflet-popup-tip,
+.tooltipBackground .leaflet-popup-content-wrapper {
+    background: #E0E0E0;
+    color: #ffffff;
+}
+.leaflet-popup-content-wrapper,.leaflet-popup-content
+ {
+   -webkit-border-radius: 0 !important;
+   -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+ }
+.tooltipTable
+{
+	background-color: #E0E0E0;
+	border:0;
+	font-size:8px;
+	width:200px;
+}
+.panelHeader
+{
+	font-weight: bold;
+	font-size:12px;
+	border-style:solid;
+	background-color:dodgerblue;
+	color:white;
+	border-width:1px;
+	border-color:black;
+	padding: 10 0 10 0 ;
+}
+.rowAlternate
+{
+	/*background-color: #c9c9c9;*/
+}
+.tag 
+{
+	font-size:9px;
+}
+.tools
+{
+	position: absolute;
+	z-index:99999;
+	top:62px;
+	left:45px;
+}
+.filtro
+{
+	border-style:solid;
+	border-width:1px;
+	background-color:#E0E0E0;
+	padding:15px;
+	position: absolute;
+	z-index:99999;
+	top:100px;
+	left:45px;
+}
+.listado
+{
+	border-style:solid;
+	border-width:1px;
+	background-color:#E0E0E0;
+	padding:15px;
+	position: absolute;
+	z-index:99999;
+	top:100px;
+	left:45px;
+	max-height:50%;
+	overflow: auto;
+}
+.tablaListado
+{
+	border-style:solid;
+	border-width:1px;
+}
+.nuevoElemento
+{
+	height:190px;
+	width:250px;	
+}
+.subirImagen
+{
+	height:170px;
+	width:380px;	
+}
+.tarea
+{
+	height:320px;
+	width:300px;	
+}
+.hidden
+{
+	display:none;
+	visibility: hidden;	
+}
+
+.miniIcon
+{
+	width:24px;
+	height:24px;
+}
+
+.miniIcon:hover
+{
+	-moz-box-shadow: 0 0 10px #778F9D; 
+	-webkit-box-shadow: 0 0 10px #778F9D; 
+	box-shadow: 0 0 10px #778F9D;
+	cursor:hand;
+}
+
+.bigIcon
+{
+	width:128px;
+	height:128px;
+}
+.bigIcon:hover
+{
+	-moz-box-shadow: 0 0 10px #778F9D; 
+	-webkit-box-shadow: 0 0 10px #778F9D; 
+	box-shadow: 0 0 10px #778F9D;
+	cursor:hand;
+}
+
+.splash
+{
+	border-style:solid;
+	border-width:1px;
+	background-color:#E0E0E0;
+	padding:15px;
+	position: absolute;
+	z-index:99999;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	max-height:100%;
+	overflow: auto;
+}
+.splashContent
+{
+	border-style:solid;
+	border-width:2px;
+	background-color:dodgerblue;
+	padding:15px;
+	position: absolute;
+	z-index:99999;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	max-height:100%;
+	overflow: auto;
+	width:370px;
+	height:120px;
+}
+.splashLogo
+{
+	height:40px;	
+}
+.opencartis
+{
+	position: absolute;
+	z-index:99999;	
+	left:10px;
+	bottom:5px;
+	height:40px;
+}
+.enlacesMapas
+{
+	border-style:solid;
+	border-width:1px;
+	background-color:#E0E0E0;
+	padding:15px;
+	position: absolute;
+	z-index:99999;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	height:360px;
+	width:310px;
+	overflow: auto;
+}
+.loading
+{
+	position:absolute; 
+	bottom:4;
+	width:90%;
+}
+
+.routes
+{
+	position: absolute;
+	z-index:99997;	
+	left:10px;
+	top:120px;		
+	font-weight: bold;
+	border-style:solid;
+	border-width:1px;
+}
+
+.routesPadding
+{
+	padding: 4 10 4 12;
+}
+
+.red
+{	
+	background-color:#F87373;	
+}
+
+.blue
+{
+	background-color:#12bbf0;	
+}
+
+.yellow
+{
+	background-color:#e8c84c;	
+}
+
+.green
+{
+	background-color:#bbeeaa;	
+}
+
+.grey
+{
+	background-color:#c3c3c3;	
+}
+
+.orange
+{
+	background-color:#fca36a;	
+}
+
+.incidence
+{
+	margin:  0 0 0 0;
+	background-color:yellow !important;	
+	color: red;
+	font-weight:bold;
+	border-style:solid;
+	border-width:1px;
+	border-color:black;
+	cursor:hand;
+	padding: 4;
+}
+
+.incidenceIcon
+{
+	width:24px;
+	vertical-align:middle;
+}

@@ -14,6 +14,9 @@ var tipos = new Array();
 var map = undefined;			
 var kmlLayer;
 var selectNewElementType;
+var dataPoints;
+var heatMapVisible=false;
+var heat;
 
 function cargarListasValores()
 {
@@ -192,6 +195,7 @@ function actualizarElementos()
 		var tableListadoHtml="<table class='tablaListado'><tr><td class='tablaListado center panelHeader'>" + typeLoc + "</td><td class='tablaListado center panelHeader'>" + fieldsLoc + "</td></tr>";
 		
 		tipos = new Array();
+		dataPoints = new Array();
 		
 		for(var i=0;i<elements.length;i++)
 		{	
@@ -218,6 +222,12 @@ function actualizarElementos()
 				var tipoId=values[4];
 				var tipo=values[5];
 				var tareaId=values[6];							
+				
+				var eachPoint= new Array();
+				eachPoint.push(lat);
+				eachPoint.push(lon);
+				eachPoint.push(50);
+				dataPoints.push(eachPoint);
 				
 				if(tipos[tipoId]==undefined)
 				{
@@ -462,6 +472,24 @@ function actualizarElementos()
 	oReq.open("get", "getElements.php", true);    
 	
     oReq.send();
+}
+
+function mostrarMapaCalor()
+{
+	var count=0;	
+
+	if(heatMapVisible)
+	{		 	
+		actualizarElementos();	
+		map.removeLayer(heat);
+		heatMapVisible=false;
+	}
+	else
+	{
+		eliminarCapas();	
+		heat = L.heatLayer(dataPoints, {radius: 25}).addTo(map);	
+		heatMapVisible=true;
+	}
 }
 
 function eliminarElemento(id)

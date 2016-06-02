@@ -1,0 +1,45 @@
+.indexBackground
+{	
+	background-image: url(../images/background.jpg); 
+	background-position: center top; 
+	background-size: 100% auto; 	
+}
+.loginHeader
+{
+	background-color:dodgerblue; 
+	color:white;
+	font-size:14px;
+	text-align:center;
+	padding: 8px;
+	border-bottom: 1px solid #000000;
+}
+.header
+{
+	font-size:18px; 
+	background-color:dodgerblue; 
+	color:white;    
+    border-bottom: 2px solid #000000;
+    padding: 10px;
+	height:30px;
+}
+.loginDiv
+{
+	background-color:white;		
+	width: 280px;
+	height:190px;
+	background: white;
+	padding:0px;
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+}
+.loginFields
+{	
+	padding:20px;
+}
+.languages
+{
+	position:absolute;
+	top: 18px;
+	right: 15px;	
+}
