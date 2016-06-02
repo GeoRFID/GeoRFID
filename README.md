@@ -1,2 +1,2 @@
 # GeoRFID
-www.georfid.com
+www.georfid.org
